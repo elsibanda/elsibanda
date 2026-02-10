@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**elsibanda/elsibanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Software Development student passionate about data development, backend systems, problem solving, and building real-world applications.
+I enjoy turning complex problems into structured, working solutions
 
 - 🔭 I’m currently working on ...
+  Backend development projects (PHP, MySQL & JavaScript)
+  Building and customizing Magento 2 modules
+  REST API integrations
+  Improving database design and optimization skills
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+ Database Administration and development
+ Service contracts & API development
+ JavaScript components and UI customization
+ Clean code principles & performance optimization
 - 💬 Ask me about ...
+  Magento 2 development
+  PHP, MySQL, HTML, JavaScript & Python
+  Debugging backend logic & Custom modules
+  Linux CLI basics
+  
 - 📫 How to reach me: ...
+  www.linkedin.com/in/thembelihle-sibanda-4980b0315
+  elsibanda03@gmail.com
+  
 - 😄 Pronouns: ...
+  He/Him
+  
 - ⚡ Fun fact: ...
--->
+  I first got intorduced to IT and hacking through a video game "watchdogs" at i played growing up
+  
