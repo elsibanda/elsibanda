@@ -41,5 +41,8 @@ I enjoy turning complex problems into structured, working solutions
 <img width="88" height="88" alt="Image" src="https://github.com/user-attachments/assets/0b911b7c-2318-4e8f-8d79-081a655ed0ba" />
 <img width="88" height="88" alt="Image" src="https://github.com/user-attachments/assets/b38217cb-08f7-427e-b541-75f7a73e8b9c" />
 <img width="88" height="88" alt="Image" src="https://github.com/user-attachments/assets/0f1429ca-19d3-4ff9-bb2e-b7d1a63da226" />
+
+---
+![Image](https://github.com/user-attachments/assets/17c1de96-0079-4c0d-8fa9-5b7e79f40ca0)
   
   
