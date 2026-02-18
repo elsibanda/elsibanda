@@ -1,8 +1,8 @@
-## Hi there 👋
+## This is Thembelihle Sibanda, Hi👋
 
 Software Development student passionate about data development, backend systems, problem solving, and building real-world applications.
 I enjoy turning complex problems into structured, working solutions
-
+---
 - 🔭 I’m currently working on ...
   
   Backend development projects (PHP, MySQL & JavaScript)
