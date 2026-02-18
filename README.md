@@ -1,9 +1,7 @@
-## This is Thembelihle Sibanda, Hi👋
-
 ---
   ![Image](https://github.com/user-attachments/assets/2884faa3-6ec1-49db-9174-98b630895e06)
 ---
-
+## Hi👋
 Software Development student passionate about data development, backend systems, problem solving, and building real-world applications.
 I enjoy turning complex problems into structured, working solutions
 ---
