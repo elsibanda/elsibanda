@@ -43,6 +43,6 @@ I enjoy turning complex problems into structured, working solutions
 <img width="88" height="88" alt="Image" src="https://github.com/user-attachments/assets/0f1429ca-19d3-4ff9-bb2e-b7d1a63da226" />
 
 ---
-![Image](https://github.com/user-attachments/assets/17c1de96-0079-4c0d-8fa9-5b7e79f40ca0)
+<img width="1236" height="824" alt="Image" src="https://github.com/user-attachments/assets/7d8f62d3-54e7-4747-9d84-6b2e0181c1e8" />
   
   
